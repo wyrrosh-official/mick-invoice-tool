@@ -1,0 +1,6 @@
+streamlit>=1.39
+python-dotenv>=1.0.1
+anthropic>=0.69
+pydantic>=2.9
+pandas>=2.2
+openpyxl>=3.1

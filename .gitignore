@@ -1,0 +1,16 @@
+venv/
+.env
+.streamlit/secrets.toml
+data/invoices.db
+data/usage.json
+data/images/*
+!data/images/.gitkeep
+data/backups/
+exports/*
+!exports/.gitkeep
+csv_exports/*
+sample_invoices/*
+!sample_invoices/.gitkeep
+stocktake_filled/
+__pycache__/
+*.pyc
